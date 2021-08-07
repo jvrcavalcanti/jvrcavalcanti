@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/jvrcavalcanti/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jvrcavalcanti&count_private=true&show_icons=true&theme=onedark" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jvrcavalcanti&count_private=true&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/jvrcavalcanti/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrcavalcanti&theme=onedark&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvrcavalcanti&theme=radical&layout=compact" />
 </a>
 
 <!--
